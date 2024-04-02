@@ -1,5 +1,7 @@
 # Student_Management_System
-Student Management System is a program, it provides a simple console-based interface to perform CRUD(create,read,update,delete) operations on the student records. Each operation is implemented in a separate function for better organization and readability.
+
+Student Management System is a program, it provides a simple console-based interface to perform CRUD(create,read,update,delete) operations on the student records.
+Each operation is implemented in a separate function for better organization and readability.
 
 The Student Management System (SMS) project typically includes the following main functionalities:
 Student Information Management: This includes storing and managing information about students such as their names, roll numbers, addresses, contact details, and other relevant personal information.
